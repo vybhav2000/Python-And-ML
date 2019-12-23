@@ -1,2 +1,2 @@
 # Python-And-ML
-Notes on Pyhton and ML
+Notes on Python and ML
